@@ -1,10 +1,10 @@
-#full-stack web development training
+# full-stack web development training
 
-###Project 2
+### Project 2
 
-####Insatructor: Hatem Alkhateeb
+#### Insatructor: Hatem Alkhateeb
 
 
-##Live DEMO : https://rzalfar.github.io/project2/ 
+## Live DEMO : https://rzalfar.github.io/project2/ 
 
 
